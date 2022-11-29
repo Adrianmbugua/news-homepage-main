@@ -42,7 +42,10 @@
       color: var(--Off-white);
       text-decoration: none;
    }
-
+   .foot_sec h3 a{
+      color: var(--Very-dark-blue);
+      text-decoration: none;
+   }
    h3 a:hover{
       color: var(--Soft-orange);
    }
